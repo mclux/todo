@@ -1,0 +1,5 @@
+C:\Users\oluwa\Documents\Source_codes\lexo\ToDo\Core\bin\Debug\Core.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\ToDo\Core\bin\Debug\Core.pdb
+C:\Users\oluwa\Documents\Source_codes\lexo\ToDo\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\oluwa\Documents\Source_codes\lexo\ToDo\Core\obj\Debug\Core.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\ToDo\Core\obj\Debug\Core.pdb
